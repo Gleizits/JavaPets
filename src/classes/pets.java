@@ -13,7 +13,7 @@ public class pets {
         this.race = race;
     }
 
-    // getters y setters para los atributos
+    // getters and setters
     public String getName() {
         return name;
     }
